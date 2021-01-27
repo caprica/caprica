@@ -7,6 +7,7 @@
 - I love Linux and Open Source Software
 - I write code all day and listen to synthwave
 - I'm also a massive fan of all the Soulsborne games on Playstation
+- If you're looking for a full-stack, multi-disciplined, freelance developer get in touch!
 
 <a href="https://github-readme-stats.vercel.app/api?username=caprica&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
   <img align="center" alt="Mark Lee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=caprica&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
