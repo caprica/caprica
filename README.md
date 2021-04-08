@@ -16,3 +16,12 @@
 <a href="https://github-readme-stats.caprica.vercel.app/api/top-langs/?username=caprica&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caprica&layout=compact&hide_border=true&theme=radical&langs_count=10" />
 </a>
+
+## Ways to show support
+
+ - Make sure to star the projects here, especially vlcj
+ - If you find an answer to a vlcj question that helps you on stackoverflow, make sure to leave an upvote
+ - Follow @capricasoftware on Twitter
+ - Consider purchasing a commercial license for vlcj or vlcj-pro
+ - Consider hiring me for freelance development services
+ - Go to <a href="https://www.youtube.com/channel/UCaLIHcc4xFLV47zlHbAIe7Q/videos">Trillium's YouTube channel</a> and like/subscribe if you agree it's the most wholesome, genuine content on YouTube (I have no affiliation with them, I just want to support them in whatever small way I can)
