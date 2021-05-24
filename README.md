@@ -25,4 +25,3 @@
  - Consider purchasing a commercial license for vlcj or vlcj-pro
  - Consider hiring me for freelance development services
  - Send me synthwave/retrowave recommendations
- - Go to <a href="https://www.youtube.com/channel/UCaLIHcc4xFLV47zlHbAIe7Q/videos">Trillium's YouTube channel</a> and like/subscribe if you agree it's the most wholesome, genuine content on YouTube (I have no affiliation with them, I just want to support them in whatever small way I can)
