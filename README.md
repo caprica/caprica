@@ -19,6 +19,7 @@
 
 ## Ways to show support
 
+ - Become a GitHub sponsor
  - Make sure to star the projects here, especially vlcj
  - If you find an answer to a vlcj question that helps you on stackoverflow, make sure to leave an upvote
  - Follow @capricasoftware on Twitter
